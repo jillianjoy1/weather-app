@@ -1,0 +1,42 @@
+h1 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+h2 {
+  margin-bottom: 70px;
+}
+h1,
+h2 {
+  font-family: "Ballet", cursive;
+  font-family: "Orbitron", sans-serif;
+  font-family: "Pixelify Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(226, 240, 254) 0%,
+    rgb(255, 247, 228) 90%);
+  border-radius: 35px;
+  padding: 10px 70px 10px;
+}
+
+ul{
+    padding-bottom: 20%;
+    padding-left: 50%;
+}
+li {
+    list-style: none;
+    
+}
+form {
+  padding: 10% 20%;
+  margin-left: 65px;
+}
+
+
+.day-of-rows {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    margin-left: 250px;
+}
